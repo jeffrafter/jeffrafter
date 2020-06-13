@@ -1,4 +1,4 @@
-<svg width="500" height="350">
+<svg width="500" height="350" xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink">
   <circle id="orange-circle" r="30" cx="50" cy="50" fill="orange" />
   <rect id="blue-rectangle" width="50" height="50" x="25" y="200" fill="#0099cc"></rect>
   
