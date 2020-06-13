@@ -8,7 +8,7 @@
            from="50"
            to="450" 
            dur="5s"
-           begin="mouseenter"
+           begin="mousemove"
            fill="freeze" 
            id="circ-anim"/>
   
