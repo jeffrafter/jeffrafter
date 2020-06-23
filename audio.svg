@@ -1,7 +1,8 @@
 
 <svg width="500" height="350" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="pointer-events:none" xmlns:html="http://www.w3.org/1999/xhtml">
   
-
+    <rect width="150" height="50" x="20" y="20" rx="10"
+      fill="#f00" stroke="#933" stroke-width="5"/>
 
   
   <foreignObject x="20" y="90" width="150" height="200">
