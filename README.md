@@ -1,4 +1,4 @@
-<img src="https://github.com/jeffrafter/jeffrafter/raw/master/game.svg" width="100%">
+<img src="https://github.com/jeffrafter/jeffrafter/raw/master/game.svg" width="100%" height="600">
 
 <img src="https://github.com/jeffrafter/jeffrafter/raw/master/audio.svg" width="1200">
 
